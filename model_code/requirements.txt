@@ -1,0 +1,14 @@
+wikipedia
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+kuzu
+datasets
+sentencepiece
+transformers==4.57.1
+trl==0.21.0
+peft==0.17.1
+accelerate==1.7.0
+bitsandbytes==0.46.0
