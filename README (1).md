@@ -181,9 +181,14 @@ smart_mcq_solver/
 ├── model_code/
 │   │
 │   ├── requirements.txt
+|   ├── data_scraping.py
 │   ├── data_preprocessing.py
+|   ├── embeddings.py
 │   ├── model_training.py
-│   └── inference.py
+|   ├── fine_tuning.py
+|   ├── kuzu.py
+|   ├── ensemble.py
+│   
 │
 └── README.md
 ```
