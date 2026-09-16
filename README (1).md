@@ -235,19 +235,6 @@ It also integrates **Weights & Biases (W&B)** for experiment tracking.
 
 ---
 
-### `inference.py`
-
-Responsible for:
-
-- Loading trained model weights
-- Generating predictions from all three models
-- Extracting model logits/probabilities
-- Performing ensemble weight optimization
-- Evaluating MAP@3
-- Generating the final `submission.csv`
-
----
-
 # 🛠️ Installation & Setup
 
 ## 1. Clone the Repository
