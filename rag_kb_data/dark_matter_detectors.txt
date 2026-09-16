@@ -1,0 +1,13 @@
+# Noble Liquid Dark Matter Detectors
+
+Dark matter comprises the majority of the universe's mass but remains invisible to traditional astronomy, requiring specialized, ultra-sensitive underground detectors to observe its elusive interactions.
+
+## Fundamental Definitions
+*   **Dark Matter**: A hypothetical form of matter thought to account for approximately 85% of the matter in the universe, interacting primarily through gravity rather than electromagnetism.
+*   **WIMP**: Weakly Interacting Massive Particles, a leading theoretical candidate for dark matter that interacts with normal matter only via the weak nuclear force and gravity.
+*   **Scintillation**: The flash of light produced in certain transparent materials when they absorb energy from an incoming ionizing particle.
+
+## Core Concepts
+Because dark matter does not emit, reflect, or absorb light, it completely evades optical, radio, and X-ray telescopes. To capture physical evidence of these particles, physicists rely on deep-underground facilities utilizing cryogenic and noble liquid detectors. These devices are typically filled with massive volumes of ultra-pure, supercooled liquid xenon or argon.
+
+The operational focus of these detectors is isolating incredibly rare dark matter collisions from heavy background cosmic radiation. When a theoretical particle collides directly with an atomic nucleus in the noble liquid, it triggers a tiny flash of scintillation light and releases a minimal cluster of free electrons. The detector arrays capture both the optical flash and the delayed electrical charge. By precisely comparing the ratio and timing of these two signals, physicists can effectively filter out mundane radiation and hunt for the invisible mass of the cosmos.

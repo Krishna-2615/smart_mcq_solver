@@ -1,0 +1,13 @@
+# Complexity From Noise in Dynamical Systems
+
+The principle of complexity from noise proposes that random, chaotic, or noisy environmental inputs can, under specific conditions, generate structured, complex, and functional behavior within a system.
+
+## Fundamental Definitions
+*   **Noise**: Random, unpredictable fluctuations or disturbances that occur within a dataset, signal, or physical environment.
+*   **Stochastic Resonance**: A phenomenon where a signal that is normally too weak to be detected is amplified and made functional by the addition of random noise.
+*   **Dissipative System**: An open thermodynamic system that consumes energy and exchanges matter with its environment to maintain order and structure.
+
+## Core Concepts
+Historically, science has viewed noise as purely destructive—an unwanted variable that obscures clear data and disrupts organized systems. However, research in information theory and nonlinear dynamics challenges this view. The theory of complexity from noise suggests that in complex, dissipative systems, environmental randomness can actually act as a crucial trigger for self-organization. 
+
+Instead of destroying order, noise can push a stagnant system out of equilibrium and into a state where new, highly structured patterns emerge. A primary example is stochastic resonance, where adding noise to a weak sensory signal amplifies it enough to cross a detection threshold. This concept is incredibly relevant in modern biology, where cellular networks leverage internal chemical noise to switch adaptively between different biological states, shifting the perception of chaos from a destructive force to a potential catalyst for functional evolution.

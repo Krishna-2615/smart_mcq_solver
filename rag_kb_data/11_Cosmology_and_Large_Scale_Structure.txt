@@ -1,0 +1,13 @@
+# Cosmology and Large Scale_Structure
+
+Cosmology is the scientific study of the large-scale properties, origin, evolution, and ultimate fate of the entire universe.
+
+## Fundamental Definitions
+*   **Cosmological Redshift**: The stretching of the wavelength of electromagnetic radiation as it travels through an expanding universe, shifting the light toward the red end of the spectrum.
+*   **Hubble's Law**: The observation that galaxies are receding from Earth at velocities directly proportional to their distance, proving the metric expansion of space.
+*   **Baryon Acoustic Oscillations**: Relic periodic fluctuations in the density of the visible baryonic matter of the universe, serving as a cosmic standard scale for distance measurements.
+
+## Core Concepts
+The foundation of modern cosmology rests on the metric expansion of the universe. As light travels across expanding space over billions of years, its wavelength stretches proportionally, creating a clear redshift-distance relationship. This tool allows astronomers to calculate the distances to early high-redshift galaxies and reconstruct the history of cosmic expansion.
+
+The universe's mass-energy budget is dominated by mysterious components: cold dark matter, which provides the necessary gravitational binding force to hold galaxies together without interacting with light, and dark energy, which exerts a negative repulsive pressure causing cosmic expansion to accelerate. Relic records of the early universe, including temperature fluctuations in the background radiation field and acoustic spatial scales, provide the data needed to test competing cosmological models and map the structural grid of the cosmos.

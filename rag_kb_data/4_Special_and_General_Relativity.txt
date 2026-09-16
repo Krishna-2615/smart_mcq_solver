@@ -1,0 +1,13 @@
+# Special and General Relativity
+
+Relativity is the geometric framework of space and time formulated by Albert Einstein, replacing classical Newtonian views of an absolute space and time with a unified, relative continuum.
+
+## Fundamental Definitions
+*   **Lorentz Invariance**: The principle stating that the fundamental laws of physics remain identical for all observers moving at a constant velocity relative to each other, regardless of their orientation.
+*   **Simultaneity**: The property of two events occurring at the exact same time. Relativity demonstrates that simultaneity is not absolute; events simultaneous in one reference frame may happen at different times in another.
+*   **Spacetime Curvature**: The geometric distortion of the four-dimensional spacetime fabric caused by the distribution of mass and energy.
+
+## Core Concepts
+Einstein’s work is split into two frameworks. Special Relativity posits that the speed of light in a vacuum is a universal constant that remains completely independent of the motion of the light source or the observer. This consistency results in observable physical effects, such as time running slower for moving objects and lengths contracting along the path of motion.
+
+General Relativity expands these rules to non-inertial accelerating frames, redefining gravity not as a physical pulling force, but as a geometric consequence of spacetime curvature. Massive objects warp the spacetime fabric around them, forcing traveling matter and light to follow curved paths. This framework predicts waves of geometric distortion propagating through space, known as gravitational waves, as well as extreme rotational distortions where spinning mass drags the local coordinate grid along with its rotation, a phenomenon called frame dragging.

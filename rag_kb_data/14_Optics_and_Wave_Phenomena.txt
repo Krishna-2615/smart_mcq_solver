@@ -1,0 +1,13 @@
+# Optics and Wave Phenomena
+
+Optics is the branch of physics that studies the behavior, properties, and interactions of light, including its transitions through various physical media.
+
+## Fundamental Definitions
+*   **Diffraction**: The slight bending, spreading, and interference of waves when they encounter an obstacle, a slit, or an edge.
+*   **Total Internal Reflection**: An optical phenomenon that occurs when a traveling wave strikes a medium boundary at an angle steeper than the critical angle, reflecting entirely back into the denser medium.
+*   **Coherence Area**: The spatial area perpendicular to the direction of wave propagation over which the phase of the light wave remains highly correlated and predictable.
+
+## Core Concepts
+Light displays intrinsic wave properties that dictate its behavior. The angular spacing of features in a generated diffraction pattern is inversely proportional to the dimensions of the object causing the diffraction; thus, smaller apertures force traveling light to spread out over wider angles. 
+
+When light encounters an interface between two different media, its behavior is guided by optimization principles. Historically, scientists modeled refraction by assuming light takes the specific path of least resistance through distinct media. Polarized light properties can be manipulated by forcing deliberate, successive total internal reflections at precise angles. In interferometry setups, such as double-slit experiments, observing stable interference patterns depends entirely on the spatial diameter of the wave's coherence area, ensuring the phases match across the slits.

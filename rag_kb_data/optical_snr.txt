@@ -1,0 +1,13 @@
+# Optical Signal-to-Noise Ratio (OSNR)
+
+In the field of fiber-optic communications, the Optical Signal-to-Noise Ratio (OSNR) is a critical performance metric used to evaluate the clarity and health of a transmitted light signal.
+
+## Fundamental Definitions
+*   **Signal Power**: The strength or intensity of the desired, data-carrying electromagnetic wave being transmitted through the communication channel.
+*   **Noise Power**: The strength of the unwanted, random background electromagnetic interference that degrades or obscures the desired data signal.
+*   **Amplified Spontaneous Emission (ASE)**: Background optical noise generated natively by the optical amplifiers used to boost signal strength across long distances of fiber cable.
+
+## Core Concepts
+As pulses of laser light travel through hundreds of miles of fiber-optic cables, they naturally lose strength due to scattering and absorption. To maintain the data stream, network engineers install optical amplifiers along the route. While these amplifiers boost the data signal, they also unavoidably generate and add random background noise, known as Amplified Spontaneous Emission, into the fiber.
+
+To measure the impact of this degradation, engineers calculate the Optical Signal-to-Noise Ratio (OSNR). The OSNR is explicitly defined as the ratio between the intended optical signal power and the unwanted optical noise power across a given, specific bandwidth. It is used to cleanly describe the raw optical signal quality running through the fiber without taking the eventual receiver's electronic processing capabilities into account. A high OSNR means the data signal is loud and clear above the background noise, ensuring data can be reliably decoded, while a low OSNR indicates the signal is critically corrupted and data loss is highly likely.

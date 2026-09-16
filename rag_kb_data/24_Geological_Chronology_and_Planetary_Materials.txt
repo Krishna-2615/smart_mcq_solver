@@ -1,0 +1,13 @@
+# Geological Chronology and Planetary Materials
+
+Planetary sciences evaluate the composition, structural transformations, and absolute age of planetary and cometary matter to reconstruct the evolutionary history of the solar system.
+
+## Fundamental Definitions
+*   **Primordial Material**: Pristine, unaltered matter dating back to the earliest stages of solar system formation that has escaped the melting and recycling processes of planetary geology.
+*   **Volatile Component**: Chemical elements or compounds with low boiling points—such as water, ammonia, and methane—that easily evaporate from solid or liquid states into gas.
+*   **Cometary Ice**: A solid mixture of volatile water, gases, and trapped cosmic dust grains that makes up the nucleus of a comet.
+
+## Core Concepts
+Planetary frameworks are categorized by studying the material transformations that occur as cosmic matter aggregates into larger bodies. Comets are of immense scientific significance because they are composed of primordial material from the outer edges of the early solar nebula. Unlike planets, which have been altered by volcanism, tectonic activity, and weathering, comets act as deep-freeze capsules that preserve the pristine chemical state of the early solar system.
+
+Analyzing cometary chemistry reveals a direct, historical link to interstellar molecular clouds. The organic molecules and volatile elements trapped within cometary ices closely match the composition of dense interstellar gas clouds where new stars are born. When comets pass close to a star, solar radiation heats these volatile components, forcing them to vaporize and release pristine organic dust. Tracking these materials allows planetary scientists to deduce the initial chemical conditions that preceded the formation of Earth.

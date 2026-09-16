@@ -1,0 +1,13 @@
+# API Gravity and Petroleum Metrology
+
+American Petroleum Institute gravity is an industry-standard metrological scale used to describe the relative density of a petroleum liquid compared directly to the density of water.
+
+## Fundamental Definitions
+*   **API Gravity**: An inverse measure of a petroleum liquid's density relative to water, expressed in degrees.
+*   **Specific Gravity**: The ratio of the density of a given substance to the density of a reference substance, typically water at standard conditions.
+*   **Viscosity**: A measure of a fluid's resistance to flow or gradual deformation, often correlating with the fluid's thickness or weight.
+
+## Core Concepts
+API gravity is the primary metric utilized by the global oil and gas industry to classify crude oil grades. The scale is designed as an inverse measure; an API gravity of exactly ten degrees represents the density of pure water. Therefore, petroleum liquids with an API gravity greater than ten are lighter than water and will naturally float, while those with a value less than ten are heavier and will sink. 
+
+This standardized measurement is crucial for refinery economics and logistics. Light crude oil, characterized by a higher API gravity, is generally less viscous and significantly cheaper to refine into high-value commercial products like gasoline and jet fuel. Conversely, heavy crude oil with a low API gravity is thick, highly viscous, and often contains abundant impurities, requiring highly intensive thermal processing and specialized heated pipelines for efficient transportation.

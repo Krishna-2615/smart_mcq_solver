@@ -1,0 +1,13 @@
+# Geology and Geochronology
+
+Geology is the primary earth science focused on the study of the solid Earth, the rocks of which it is composed, and the processes by which they change over time. Geochronology provides the absolute timeframe for these changes.
+
+## Fundamental Definitions
+*   **Radiometric Dating**: A technique used to determine the absolute age of geological materials by measuring the relative abundances of specific radioactive isotopes and their stable decay products.
+*   **Isotope**: Variants of a particular chemical element that share the same number of protons but contain different numbers of neutrons within their atomic nuclei.
+*   **Half-Life**: The fixed, statistically predictable time required for exactly one-half of the radioactive parent atoms in a given sample to undergo spontaneous decay into daughter products.
+
+## Core Concepts
+Earth sciences rely on the stone record to reconstruct historical environments and tectonic planetary movements. To establish an absolute chronological timeline for Earth’s 4.6-billion-year history, geologists utilize geochronological tools anchored to atomic decay constants. 
+
+Because radioactive isotopes decay at a steady, unvarying rate that remains completely unaffected by ambient temperature or pressure changes, measuring the precise ratio of parent isotopes to trapped daughter elements reveals the exact time elapsed since the mineral rock crystallized. This radioactive clock provides the temporal structure needed to calibrate geological layers globally, map the evolutionary timelines of ancient fossils, and track the historical movements of continental plates across the planet.

@@ -1,0 +1,13 @@
+# Planetary Systems and Frameworks
+
+A planetary system is a fundamental astronomical framework describing the organized, gravitationally bound collection of celestial bodies that interact and orbit within a shared local cosmic environment.
+
+## Fundamental Definitions
+*   **Planetary System**: A set of gravitationally bound non-stellar objects in or out of orbit around a star or star system.
+*   **Gravitational Binding**: The mutual attractive force of gravity that holds an entire collection of distinct astronomical bodies together, preventing them from scattering into deep space.
+*   **Non-Stellar Object**: A celestial body that lacks the necessary mass to ignite core nuclear fusion, including planets, dwarf planets, moons, asteroids, and comets.
+
+## Core Concepts
+While the term "solar system" refers specifically to our local Sun and its orbiting bodies, the broader term "planetary system" is utilized by astronomers to classify any organized collection of objects orbiting other stars across the galaxy. 
+
+Crucially, a planetary system is rigorously defined simply as any set of gravitationally bound non-stellar objects that are in or out of structured orbit around a central star or complex multiple-star framework. This broad definition encompasses the massive gas giants, terrestrial rocky planets, orbiting moons, and chaotic debris fields of asteroids and cometary belts that populate these systems. Because the defining characteristic is gravitational binding rather than perfect circular orbits, the definition successfully accounts for highly eccentric "rogue" planets that may have been violently ejected from standard orbits but remain tethered to the gravitational well of their parent star system, establishing the absolute boundary limits of localized celestial architecture.

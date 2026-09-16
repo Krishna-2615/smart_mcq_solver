@@ -1,0 +1,13 @@
+# Crystallographic Point Groups
+
+In materials science and mineralogy, crystallographic point groups are specific mathematical sets of symmetry operations that define the macroscopic structural geometry of a crystal lattice.
+
+## Fundamental Definitions
+*   **Crystal Lattice**: The highly ordered, repeating three-dimensional structural arrangement of atoms, ions, or molecules inside a crystalline solid.
+*   **Point Group**: A set of symmetry operations (such as rotations, reflections, and inversions) that leave at least one specific point in a geometric shape entirely fixed in place.
+*   **Crystallographic Restriction Theorem**: A mathematical theorem proving that periodic crystal lattices can only possess specific discrete rotational symmetries (2, 3, 4, and 6-fold).
+
+## Core Concepts
+The internal atomic arrangement of a crystal dictates its external geometric shape and physical properties. This internal symmetry is categorized by identifying operations that map the crystal perfectly onto itself. Because a crystal must perfectly tile three-dimensional space without leaving any gaps, the crystallographic restriction theorem strictly limits the possible symmetries; rotations like five-fold or seven-fold are mathematically impossible in a continuous periodic lattice.
+
+As a result of these strict geometric constraints, there are exactly thirty-two possible crystallographic point groups in three-dimensional space. These thirty-two groups are further organized into seven broad crystal systems, including cubic, hexagonal, and monoclinic architectures. Determining the precise point group of a material is vital for engineers, as this macroscopic symmetry governs whether the crystal will exhibit specialized behaviors like piezoelectricity or optical polarization.

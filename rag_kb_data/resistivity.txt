@@ -1,0 +1,13 @@
+# Material Resistivity and Conduction
+
+Resistivity is an intrinsic material property that quantifies exactly how strongly a specific substance opposes the flow of electric current, independent of the material's physical dimensions.
+
+## Fundamental Definitions
+*   **Resistivity**: A fundamental characteristic of a material measuring its opposition to electric current, standardly measured in ohm-meters.
+*   **Conductor**: A material with extremely low resistivity, allowing electric charge carriers to flow through it with minimal energy loss.
+*   **Insulator**: A material with very high resistivity that strongly resists the flow of internal electric current.
+
+## Core Concepts
+Unlike electrical resistance, which changes depending on the length or thickness of a specific wire, resistivity evaluates the chemical and atomic nature of the material itself. Metals, such as copper and silver, have extremely low resistivity, making them exceptional conductors for circuitry. Conversely, materials like glass and rubber have massive resistivity, securely classifying them as insulators. 
+
+Resistivity is heavily influenced by atomic structure, impurities, and ambient temperature. In most standard metallic conductors, resistivity increases as the temperature rises. This occurs because increased thermal energy causes the atoms in the crystal lattice to vibrate more aggressively, which scatters the traveling electrons and makes it harder for the current to flow cleanly. In semiconductors, the relationship reverses; rising temperatures free more charge carriers from their atomic bonds, actually decreasing the overall resistivity of the material and allowing current to pass more easily.

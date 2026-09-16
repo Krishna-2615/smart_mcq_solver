@@ -1,0 +1,13 @@
+# Astrophysics and Stellar Evolution
+
+Astrophysics is the branch of space science that applies the laws of physics and chemistry to explain the birth, life, death, and behavior of stars, planets, galaxies, and other celestial bodies.
+
+## Fundamental Definitions
+*   **Main Sequence**: A continuous and distinctive band of stars visible on plots of stellar color versus brightness, representing stars fusing hydrogen in their cores.
+*   **Metallicity**: An astronomical term that measures the abundance of chemical elements present in a star or nebula that are heavier than hydrogen and helium.
+*   **Supernova**: A powerful, luminous stellar explosion that occurs during the terminal evolutionary stages of a massive star, or when a white dwarf is triggered into runaway nuclear fusion.
+
+## Core Concepts
+Stars spend the vast majority of their operational lifespans on the main sequence, maintaining a state of hydrostatic equilibrium where inward gravitational collapse is perfectly balanced by outward nuclear fusion pressure. A star's mass dictates its position on this sequence, its surface temperature, and its ultimate evolutionary fate. 
+
+The composition of a star, quantified by its metallicity, heavily influences its operational energy pathways and dictates the specific type of supernova explosion it will undergo upon death. Cooler, older stars with low metallicity often display distinct orbital velocities and positions within galactic clusters. The material ejected during stellar deaths collapses under gravity to form new star structures, restricting active star birth exclusively to cold, dense molecular clouds where internal gravity successfully overcomes outward thermal expansion pressures.

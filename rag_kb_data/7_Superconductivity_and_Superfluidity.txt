@@ -1,0 +1,13 @@
+# Superconductivity and Superfluidity
+
+Superconductivity and superfluidity are macro-scale quantum phases of matter that appear when specific materials are cooled to extreme temperatures near absolute zero.
+
+## Fundamental Definitions
+*   **Superconductivity**: A phenomenon characterized by the complete and total absence of electrical resistance within a material, accompanied by the active exclusion of external magnetic fields.
+*   **Superfluidity**: A state of matter in which a fluid exhibits a complete lack of viscosity, allowing it to flow continuously without experiencing any kinetic energy loss.
+*   **London Moment**: The uniform magnetic field generated along the exact spin axis of a spinning superconductor, caused by lagging electron rotations.
+
+## Core Concepts
+Both states represent situations where microscopic quantum behaviors scale up to become directly visible to the human eye. In superconductors, electrons form pairs that condense into a single macro-scale collective quantum field, allowing electric currents to loop indefinitely without generating heat or losing energy. 
+
+Superfluids display similarly frictionless behavior; they can flow up the vertical walls of containers, leak through microscopic pores that completely block normal fluids, and spin in stabilized, discrete quantized vortices. When a superconductor is rotated, the positive atomic lattice turns while the superconducting electron fluid lags slightly behind due to inertia. This minute relative motion generates a highly stable, precise internal electrical current that produces a magnetic field completely aligned with the axis of rotation.

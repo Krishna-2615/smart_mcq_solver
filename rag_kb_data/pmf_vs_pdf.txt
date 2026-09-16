@@ -1,0 +1,13 @@
+# Probability Distributions in Statistics
+
+In probability theory, mathematical functions are utilized to describe the distribution and likelihood of random variables, divided fundamentally by the continuous or discrete nature of the data.
+
+## Fundamental Definitions
+*   **Discrete Random Variable**: A variable that can only take on a finite or countably infinite number of specific, isolated values.
+*   **Continuous Random Variable**: A variable that can take on any infinite number of possible values within a given continuous interval.
+*   **Probability Mass Function**: A function that assigns a precise, non-zero probability to each individual outcome of a discrete random variable.
+
+## Core Concepts
+The Probability Mass Function is exclusively used for discrete random variables, such as the roll of a die or the number of students in a class. For a discrete variable, the mass function provides the exact likelihood of each individual outcome occurring, and the sum of all these individual probabilities must equal exactly one. 
+
+In contrast, the Probability Density Function is used for continuous random variables, such as measuring exact height, weight, or time. Because there are an infinite number of possible values in any continuous interval, the probability of the variable taking on any exact single point is technically zero. Therefore, the density function does not represent a probability directly; instead, it represents the concentration of probability over a continuous range. To find the actual likelihood of a continuous variable falling within a specific range, statisticians calculate the total area under the density curve over that interval.

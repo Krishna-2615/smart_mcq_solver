@@ -1,0 +1,13 @@
+# The Wilson Cloud and Transient Condensation
+
+A Wilson cloud is a striking, transient atmospheric phenomenon associated with massive, high-energy explosions, demonstrating extreme, instantaneous shifts in local atmospheric pressure and temperature.
+
+## Fundamental Definitions
+*   **Transient Condensation Cloud**: A brief, rapidly forming and dissipating cloud of water droplets, commonly referred to as a Wilson cloud, created by extreme pressure drops.
+*   **Shock Wave**: A sharply defined, violently propagating wave of extreme pressure and density that moves through a physical medium faster than the local speed of sound.
+*   **Dew Point**: The atmospheric temperature at which air becomes completely saturated with moisture, forcing water vapor to condense into liquid liquid droplets.
+
+## Core Concepts
+When a massive detonation occurs, such as a nuclear weapon test or a remarkably large conventional explosive blast, it violently displaces the surrounding air, generating an intense, outward-moving spherical shock wave. The front of this shock wave consists of highly compressed, superheated air. 
+
+However, immediately behind this compressed front is a distinct "rarefaction" phase, a zone where the atmospheric pressure drops violently and instantaneously. This sudden, massive drop in pressure forces the air behind the shockwave to expand and cool at an extremely rapid rate. If the explosion occurs in humid air, this sudden cooling immediately drops the local air temperature well below the dew point. The result is a transient condensation cloud, a perfectly smooth, dome-like visible cloud of microscopic water droplets that envelops the explosion. Because the pressure normalizes just as quickly as it dropped, the Wilson cloud exists only temporarily, dissipating almost instantly after the shockwave passes.

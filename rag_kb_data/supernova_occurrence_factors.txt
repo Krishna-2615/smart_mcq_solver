@@ -1,0 +1,13 @@
+# Supernova Occurrence Factors
+
+A supernova is a catastrophic, exceptionally luminous stellar explosion that marks the terminal evolutionary stage of a star, triggered by core collapse or runaway thermonuclear fusion.
+
+## Fundamental Definitions
+*   **Supernova**: The massive explosion of a dying star, capable of briefly outshining entire galaxies while ejecting heavy elements into interstellar space.
+*   **Progenitor Star**: The specific original star that undergoes structural failure and explodes to create a supernova event.
+*   **Metallicity**: An astrophysical metric describing the proportion of the matter making up a star that consists of chemical elements heavier than hydrogen and helium.
+
+## Core Concepts
+The ultimate fate of a star and the specific classification of the supernova it produces are heavily determined by two primary factors: the progenitor star's initial mass and its chemical metallicity. Stars massive enough to overcome electron degeneracy pressure will eventually exhaust their nuclear fuel, losing hydrostatic balance. The core abruptly collapses inward and rebounds violently, generating a massive shockwave that shreds the star.
+
+Metallicity plays a critical role in the star's final hours by influencing the intensity of stellar winds. High metallicity increases the outward pressure of these winds, which can completely strip away the star's outer hydrogen envelope long before the core collapses, resulting in different spectral classifications of the explosion. Conversely, low-mass stars like white dwarfs can only trigger a supernova if they inhabit a binary system, accreting excess mass from a companion star until they suffer catastrophic thermonuclear runaway.

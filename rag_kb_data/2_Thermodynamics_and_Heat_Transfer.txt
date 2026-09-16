@@ -1,0 +1,13 @@
+# Thermodynamics and Heat Transfer
+
+Thermodynamics is the branch of physical science concerned with heat, work, temperature, and their relation to energy and radiation. It defines how macro-scale systems transition between states based on energy configurations.
+
+## Fundamental Definitions
+*   **Entropy**: A physical property that serves as a measure of the thermal energy of a system per unit temperature that is unavailable for doing useful work. It is often conceptually described as the degree of disorder or randomness in a system.
+*   **Thermal Equilibrium**: A state in which two or more connected physical bodies reach a uniform temperature, resulting in no net transfer of heat energy between them.
+*   **Convection**: The transfer of heat through the bulk movement of molecules within fluids, such as liquids and gases.
+
+## Core Concepts
+The behavior of heat and energy is governed by universal laws. The second law of thermodynamics establishes that an isolated system will naturally evolve over time toward a state of maximum entropy, meaning that processes are inherently directional and irreversible without external work. 
+
+Heat transfer occurs via three distinct mechanisms: conduction (through direct contact), radiation (through electromagnetic waves), and convection. Convection is further divided into natural convection, driven entirely by buoyancy variations caused by temperature differences, and forced convection, where an external mechanism like a pump or fan actively moves the fluid. Idealized heat engines, like the theoretical Carnot engine, operate using highly specific thermodynamic cycles to define the absolute upper limit of efficiency that any real-world engine can achieve when converting heat into mechanical work.

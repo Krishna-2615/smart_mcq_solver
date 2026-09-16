@@ -1,0 +1,13 @@
+# Maxwell and the Unification of Electromagnetism
+
+James Clerk Maxwell's formulation of electromagnetic theory stands as one of the greatest achievements in the history of theoretical physics, providing the first successful unification of distinct physical forces.
+
+## Fundamental Definitions
+*   **Electromagnetism**: The physical interaction that occurs between electrically charged particles, combining both electric and magnetic fields into a single, unified force.
+*   **Maxwell's Equations**: A set of coupled partial differential equations that, together with the Lorentz force law, form the foundation of classical electromagnetism, classical optics, and electric circuits.
+*   **Field Theory**: A physical model that describes how a physical quantity, such as gravity or electromagnetism, distributes and propagates continuously through space and time.
+
+## Core Concepts
+Before the mid-nineteenth century, electricity and magnetism were largely viewed by the scientific community as completely separate, distinct phenomena. While researchers like Michael Faraday had demonstrated that magnetic fields could induce electrical currents, there was no comprehensive mathematical framework to explain the underlying relationship.
+
+This changed when Scottish physicist James Clerk Maxwell published his groundbreaking work. Maxwell published the first theoretical framework that was able to fully encompass the previously separate field theories, providing a complete, unifying framework of electromagnetism. He translated Faraday's experimental observations into strict mathematical equations. Crucially, Maxwell's equations predicted that changing electric and magnetic fields propagate through space as continuous waves. When he calculated the speed of these electromagnetic waves, the result perfectly matched the known speed of light, leading Maxwell to the monumental conclusion that light itself is a form of electromagnetic radiation.

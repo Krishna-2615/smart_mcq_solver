@@ -1,0 +1,13 @@
+# Electromagnetism and Field Theory
+
+Electromagnetism is the study of the electric forces, magnetic fields, and electromagnetic radiation that govern the interactions of electrically charged matter.
+
+## Fundamental Definitions
+*   **Electric Flux**: A measure of the total distribution of the electric field passing through a given surface area.
+*   **Dielectric Loss**: The inherent dissipation of energy into heat that occurs when an insulating material is subjected to a time-varying electric field.
+*   **Magnetic Susceptibility**: A dimensionless material parameter that quantifies the degree to which a substance becomes magnetized when placed within an external magnetic field.
+
+## Core Concepts
+The behavior of electric and magnetic fields is unified under foundational electromagnetic principles. These rules dictate that the total electric flux passing out of a closed surface is directly proportional to the enclosed net charge, a guideline most useful for calculating field strengths in spherically or cylindrically symmetric setups. 
+
+Materials interact with these fields based on their microscopic structures. Paramagnetic and ferromagnetic substances possess permanent atomic magnetic moments, usually originating from the spin of unpaired electrons in their outer orbitals. In ferromagnets, these spins align across continuous clusters called magnetic domains, creating strong permanent magnets. When subjected to highly sensitive measurements, changing magnetic flux states can be tracked down to discrete quantum units, forming the operating basis for superconducting magnetometer sensors.

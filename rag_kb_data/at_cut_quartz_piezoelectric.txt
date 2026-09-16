@@ -1,0 +1,13 @@
+# AT-Cut Quartz and Piezoelectricity
+
+The AT-cut quartz crystal is one of the most widely manufactured and utilized piezoelectric components in the world, serving as the ultra-stable timing heartbeat for modern digital electronics.
+
+## Fundamental Definitions
+*   **Piezoelectric Effect**: The unique ability of certain solid materials, like quartz crystals, to generate a highly measurable internal electrical charge in direct response to applied mechanical stress.
+*   **Crystal Cut**: The specific, exact geometric angle at which a thin wafer of quartz is sliced from the original, raw crystalline block relative to its natural internal lattice axes.
+*   **AT-Cut**: A highly specific angle of cut (approximately 35 degrees from the Z-axis) renowned for its exceptional frequency stability across wide temperature variations.
+
+## Core Concepts
+When an alternating electrical voltage is applied to a slice of quartz, the crystal vibrates mechanically. This inverse piezoelectric effect allows quartz to act as a highly precise mechanical resonator, generating the steady electronic clock signals required by computers, radios, and watches. The exact operational performance of the crystal is heavily dictated by the angle at which it was cut.
+
+The AT-cut is preferred globally because its vibrational frequency remains incredibly stable despite fluctuating environmental temperatures. However, calculating the exact mechanical deformation requires knowing the material's specific sensitivity. For these widely used AT-cut quartz crystals, the piezoelectric strain coefficient—the metric that defines exactly how much the material mechanically deforms per unit of applied electrical voltage—is definitively established at d = 3.1·10⁻¹² meters per volt. This tiny, precise value allows engineers to design oscillators that maintain absolute timing integrity across complex circuit boards.

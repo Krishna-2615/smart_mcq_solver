@@ -1,0 +1,13 @@
+# Solid_State_Physics_and_Materials_Science
+
+Solid-state physics is the study of rigid matter, or solids, through methods such as quantum mechanics, electromagnetism, and statistical mechanics. It analyzes how macro-scale material parameters emerge from atomic arrangements.
+
+## Fundamental Definitions
+*   **Resistivity**: An intrinsic material property that measures how strongly a given substance opposes the flow of electric current, independent of the sample's size or shape.
+*   **Crystallinity**: The degree of structural order present in a solid material, describing how perfectly atoms conform to a repeating three-dimensional lattice.
+*   **Exciton**: An electrostatic bound state composed of an electron and an electron-hole pair within a semiconductor or insulator material.
+
+## Core Concepts
+The electrical and structural properties of solids vary widely. Geologists categorize rocks into distinct levels of crystallinity based on their formation history, ranging from fully crystallized subterranean structures to completely amorphous glass caused by rapid cooling. 
+
+Electrical conduction in materials is heavily influenced by atomic defects, temperature, and purity. In metals, resistance is caused by thermal lattice vibrations scattering traveling electrons. In non-crystalline, disordered semiconductors, conduction can occur through localized charge carriers that move by jumping directly between atomic sites via quantum tunneling. Advanced engineered materials, like memristors and atomristors, display memory resistance, where the component changes its electrical conductivity based on the history of voltage applied to it, replicating the learning behaviors of biological synapses.

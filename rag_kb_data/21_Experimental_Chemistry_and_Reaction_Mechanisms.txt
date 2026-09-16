@@ -1,0 +1,13 @@
+# Experimental Chemistry and Reaction Mechanisms
+
+Chemical kinetics and organic mechanics study the step-by-step pathways, intermediate states, and structural transformations that occur as reactants turn into products. 
+
+## Fundamental Definitions
+*   **Carbocation**: An organic molecule containing a carbon atom that possesses a positive electrical charge and three bonds, operating as a highly reactive, short-lived reaction intermediate.
+*   **Crossover Experiment**: An experimental design method used to determine whether a chemical reaction mechanism is intramolecular (occurring within a single molecule) or intermolecular (occurring between separate molecules).
+*   **Radical**: An atom, molecule, or ion that possesses at least one unpaired electron in its outer shell, making it highly chemically reactive.
+
+## Core Concepts
+Understanding complex chemical transformations requires isolating transient states that cannot be captured under normal static conditions. In solid-state organic chemistry, such as within crystalline naphthalene, exposing the material to high-energy radiation can form short-lived carbocations. Because these charged states are inherently unstable within a rigid lattice, they rapidly stabilize by drawing electrons from neighboring molecules, transitioning into neutral radicals.
+
+To definitively map out how these shifts occur, chemists utilize crossover experiments. By mixing two structurally distinct but similarly reacting starting materials in the same container, researchers analyze the final products; if fragments from the different starting molecules combine into hybrid "crossover" products, the mechanism is proven to be intermolecular. If no hybrid products form, the process is strictly intramolecular, revealing the geometric limits of the reaction pathway.

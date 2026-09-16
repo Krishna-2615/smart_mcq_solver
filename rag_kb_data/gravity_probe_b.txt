@@ -1,0 +1,13 @@
+# Gravity Probe B and Spacetime Curvature
+
+Gravity Probe B (GP-B) was a landmark physics mission launched by NASA to directly test two profound, unverified predictions derived from Albert Einstein's general theory of relativity.
+
+## Fundamental Definitions
+*   **General Relativity**: Einstein's geometric theory of gravitation, which postulates that gravity is not a traditional pulling force, but rather a curvature of spacetime caused by mass and energy.
+*   **Geodetic Effect**: The physical phenomenon predicted by general relativity where the mass of a celestial body creates a deep static depression or "dimple" in the surrounding fabric of spacetime.
+*   **Gravitomagnetism (Frame-Dragging)**: The relativistic effect where a massive, rotating body actively twists and drags the local spacetime fabric around with it as it spins.
+
+## Core Concepts
+While general relativity is the foundational framework for modern astrophysics, observing its subtle structural effects on spacetime near Earth requires unparalleled mechanical precision. To achieve this, scientists engineered Gravity Probe B. The primary aim of the Gravity Probe B mission was to measure spacetime curvature near Earth, with a particular, intense emphasis on verifying the elusive concept of gravitomagnetism.
+
+The satellite was equipped with four ultra-precise, supercooled spherical gyroscopes. By placing the satellite into a highly stable polar orbit and pointing the gyroscopes at a distant guide star, researchers could track microscopic shifts in their spin axes over the course of a year. The mission successfully measured the geodetic effect caused by Earth's static mass indenting spacetime. More importantly, it provided the first direct, physical confirmation of frame-dragging, proving that the Earth's rotation physically twists the surrounding fabric of space and time like a spoon spinning in honey.

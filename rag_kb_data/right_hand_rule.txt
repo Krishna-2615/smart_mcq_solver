@@ -1,0 +1,13 @@
+# The Right-Hand Rule and Vector Orientations
+
+The right-hand rule is a standard convention in physics and engineering used to define the orientation of axes in a three-dimensional coordinate system and to determine the direction of vectors resulting from cross products.
+
+## Fundamental Definitions
+*   **Right-Hand Rule**: A mnemonic used to determine the orientation of axes and the direction of rotational or cross-product vectors.
+*   **Vector**: A quantity that possesses both a magnitude and a specific direction in space.
+*   **Angular Momentum**: The rotational equivalent of linear momentum, represented as a vector pointing perpendicular to the plane of rotation.
+
+## Core Concepts
+When tightening or loosening fasteners like bolts, screws, or bottle caps, the rule provides a reliable mnemonic for rotational motion. If you curl the fingers of your right hand in the direction of the rotation, your extended thumb points in the direction of the linear movement. For example, curling your fingers clockwise makes your thumb point away from you, indicating that the bolt will tighten. Conversely, counter-clockwise rotation causes the bolt to move toward you. 
+
+This rule is fundamentally linked to the right-handed coordinate system, which is the universal standard in mathematics. It is applied extensively in electromagnetism, where it relates the direction of current flow to the direction of the resulting magnetic field, and in mechanics to determine the direction of a spin vector. Mastering this rule is crucial for avoiding directional errors in mechanical design and electrical circuitry.

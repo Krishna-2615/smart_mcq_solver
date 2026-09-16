@@ -1,0 +1,13 @@
+# Quantum Limitations of Classical Mechanics
+
+Classical mechanics, built upon Newton's second law relating force, mass, and acceleration, provides the foundation for understanding macroscopic motion, but it fundamentally breaks down at the subatomic scale.
+
+## Fundamental Definitions
+*   **Wave-Particle Duality**: The concept in quantum mechanics that every particle or quantum entity exhibits both wave-like and particle-like properties.
+*   **Heisenberg Uncertainty Principle**: A fundamental limit on the precision with which certain pairs of physical properties, like position and momentum, can be known simultaneously.
+*   **Gauge Boson**: An elementary particle that acts as a force carrier, mediating the fundamental forces of nature between matter particles.
+
+## Core Concepts
+Newtonian mechanics assumes that particles follow deterministic, single-path trajectories and that forces act on discrete objects with specific, localized mass. However, in the quantum regime, particles are described by probability wave functions rather than defined points in space. Because quantum systems exist in superpositions of multiple states, there is no single acceleration vector to define.
+
+Furthermore, the concept of a macroscopic continuous force is replaced by the potential energy landscape and the discrete exchange of gauge bosons. Applying classical Newtonian frameworks to quantum phenomena completely neglects the discrete energy levels, quantum tunneling, and interference effects that define atomic-scale behavior. Consequently, classical mechanics must be replaced by wave equations or quantum field theory to correctly predict the behavior of electrons, quarks, and other elementary particles in microscopic systems.

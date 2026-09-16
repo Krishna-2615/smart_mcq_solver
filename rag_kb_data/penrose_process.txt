@@ -1,0 +1,13 @@
+# The Penrose Process and Ergospheres
+
+The Penrose process is a relativistic mechanism proposed by physicist Roger Penrose, describing how rotational energy can be theoretically extracted from a spinning black hole.
+
+## Fundamental Definitions
+*   **Event Horizon**: The absolute boundary surrounding a black hole beyond which nothing, including light, can escape the object's immense gravitational pull.
+*   **Ergosphere**: An oblate region located just outside the event horizon of a rotating black hole where the rotational dragging of spacetime forces all objects to rotate with the massive body.
+*   **Frame Dragging**: The phenomenon predicted by general relativity where a massive rotating object twists and drags the local fabric of spacetime around with it.
+
+## Core Concepts
+Unlike static black holes, a spinning black hole profoundly distorts its surrounding environment, creating a highly energetic zone called the ergosphere. Because the spacetime inside the ergosphere is being dragged faster than the speed of light relative to an outside observer, any particle entering this zone cannot remain stationary and is violently swept into rotation.
+
+Penrose demonstrated that if a physical object enters the ergosphere and fragments into two pieces, orbital dynamics allow for energy extraction. One fragment can be forced onto a negative-energy trajectory, causing it to fall completely past the event horizon and subtract mass-energy from the black hole. To conserve total momentum, the second fragment is violently ejected from the ergosphere carrying more kinetic energy than the original intact object possessed upon entry, successfully harvesting the black hole's rotational energy.

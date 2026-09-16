@@ -1,0 +1,13 @@
+# Chemical Potential in Quantum Chromodynamics
+
+In the study of quantum chromodynamics and ultra-dense nuclear matter, chemical potential serves as a crucial thermodynamic variable governing the balance and behavior of fundamental particles.
+
+## Fundamental Definitions
+*   **Quantum Chromodynamics (QCD)**: The theory within the Standard Model that describes the strong nuclear force, which binds quarks and gluons together to form hadrons like protons and neutrons.
+*   **Chemical Potential**: A thermodynamic metric representing the energy required to add one additional particle to a given physical system.
+*   **Quark-Gluon Plasma**: An extreme state of matter where the temperatures and densities are so high that quarks and gluons are no longer confined within individual hadrons.
+
+## Core Concepts
+In subatomic physics, the chemical potential, typically represented by the Greek letter mu (μ), is a measure of the imbalance between specific types of particles. When studying the fundamental building blocks of matter, it specifically measures the imbalance between quarks and antiquarks in a given system or state. 
+
+A higher chemical potential indicates a stronger thermodynamic bias favoring quarks over antiquarks. In standard, stable atomic matter, the chemical potential is relatively high because there is an overwhelming abundance of quarks forming the protons and neutrons, with very few antiquarks present. Conversely, in the extremely hot, energetic conditions immediately following the Big Bang, the universe contained an almost equal, balanced mix of matter and antimatter, resulting in a chemical potential that was practically zero. Understanding these shifts is vital for mapping the phase transitions of nuclear matter under extreme astrophysical conditions.

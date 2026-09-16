@@ -1,0 +1,13 @@
+# Fluid Dynamics and Aerodynamics
+
+Fluid dynamics is the subdiscipline of fluid mechanics that describes the flow of fluids—both liquids and gases—in motion. Aerodynamics is the specific study of how gases interact with moving solid bodies.
+
+## Fundamental Definitions
+*   **Viscosity**: A measure of a fluid's resistance to gradual deformation by shear or tensile stress. Informally, it corresponds to the thickness or internal friction of the fluid.
+*   **Cavitation**: The formation of vapor bubbles or cavities within a liquid, occurring in regions where the local pressure drops rapidly below the vapor pressure of the liquid.
+*   **Boundary Layer**: The thin layer of fluid directly adjacent to a solid surface where the fluid's velocity transitions from zero (due to friction) up to the mainstream flow velocity.
+
+## Core Concepts
+The behavior of moving fluids is governed by the principles of mass conservation and momentum balance. These are mathematically mapped out in the foundational Navier-Stokes equations, which treat fluids as continuous media. 
+
+When fluid moves past an object, pressure and shear forces are generated along the interface. In aerodynamics, these interactions dictate how airfoils generate lift and drag. A critical operational requirement is ensuring that the fluid moving along the lower and upper surfaces of an object meets smoothly at the trailing edge without generating unnatural singular backflows. Additionally, when moving fluids are suddenly and completely halted within a closed pipe network, the abrupt kinetic energy change generates a violent pressure spike and shock wave, a destructive structural phenomenon known as water hammer.

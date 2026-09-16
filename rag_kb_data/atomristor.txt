@@ -1,0 +1,13 @@
+# Atomristors and Neuromorphic Computing
+
+An atomristor is a cutting-edge, nano-scale electronic component that achieves memory resistance through the precise, controlled movement of individual atoms within ultra-thin materials.
+
+## Fundamental Definitions
+*   **Memristor**: An electrical component that limits or regulates the flow of electrical current and uniquely remembers the amount of charge that previously flowed through it.
+*   **Atomristor**: A specialized, atomic-scale memristor that switches resistance states via the physical rearrangement of single atoms within two-dimensional material layers.
+*   **Neuromorphic Computing**: A concept in computer engineering focused on designing hardware architectures that mimic the neural structures and processing methods of the human brain.
+
+## Core Concepts
+While a standard memristor changes its resistance profile based on the historical volume of electrical current passed through it, an atomristor minimizes this mechanism down to the absolute physical limit. It operates by utilizing an applied electric field to physically shift individual atoms or ions within an ultra-thin, two-dimensional material lattice, such as graphene. 
+
+By rearranging these singular atoms, the device effectively toggles between high and low electrical resistance states. Because this mechanical shifting occurs at the atomic scale, atomristors are phenomenally fast, highly energy-efficient, and capable of incredibly dense data storage. They are considered critical components for the future of neuromorphic computing, as they successfully function as artificial electronic synapses, granting computer hardware the ability to simultaneously process and store information identically to biological neural networks.

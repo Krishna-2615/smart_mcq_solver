@@ -1,0 +1,13 @@
+# Larmor Precession and Magnetometry
+
+Larmor precession describes the continuous, wobbling motion of a magnetic moment—such as the spin of an electron or atomic nucleus—when it is subjected to an external magnetic field.
+
+## Fundamental Definitions
+*   **Larmor Precession**: The gyration of the rotational axis of a magnetic particle about an external magnetic field.
+*   **Magnetic Moment**: A vector quantity that dictates the strength and orientation of a magnetic source, determining how it interacts with external magnetic fields.
+*   **Gyromagnetic Ratio**: The ratio of a particle's magnetic dipole moment to its angular momentum, a constant that is unique to each type of particle.
+
+## Core Concepts
+When an atomic particle with a magnetic moment is placed inside an external magnetic field, it does not simply snap into alignment. Instead, it experiences a rotational torque that causes its axis to precess, or wobble, around the direction of the applied field lines. This wobbling occurs at a highly specific, predictable rate known as the Larmor frequency. 
+
+This frequency is directly proportional to both the strength of the external magnetic field and the unique gyromagnetic ratio of the particle. Detecting and measuring these microscopic precession fields is the foundational principle behind highly advanced technologies. In medical diagnostics, it forms the basis of magnetic resonance imaging, safely mapping the internal magnetic environment of human tissues. In applied physics, tracking exact Larmor frequencies allows sensors to detect microscopic fluctuations in ambient magnetic fields.

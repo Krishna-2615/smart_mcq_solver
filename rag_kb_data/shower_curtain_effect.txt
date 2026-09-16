@@ -1,0 +1,13 @@
+# The Shower-Curtain Effect and Fluid Dynamics
+
+The shower-curtain effect is a well-known, observable fluid dynamics phenomenon where a shower curtain billows inward toward the falling water stream, counterintuitively moving against the outward spray.
+
+## Fundamental Definitions
+*   **Bernoulli's Principle**: A principle in fluid dynamics stating that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.
+*   **Vortex**: A mass of fluid, such as air or water, that rotates around a central axis line, often creating a vacuum or low-pressure zone at its core.
+*   **Pressure Differential**: The physical difference in pressure between two distinct points or zones within a fluid system.
+
+## Core Concepts
+For decades, the inward billowing of shower curtains was a subject of amateur experimentation. The most widely accepted scientific explanation relies on Bernoulli's principle combined with vortex generation. As the showerhead releases water, it creates a high-velocity stream of droplets that drags the surrounding air along with it, actively generating a low-pressure zone inside the enclosed shower stall. 
+
+According to Bernoulli's principle, as the velocity of the internal air increases, its pressure proportionally decreases. The resulting pressure difference between the high-pressure ambient air outside the curtain and the low-pressure air inside creates a net force that pushes the flexible curtain inward. Furthermore, research indicates that the falling spray induces a horizontal rotating vortex within the stall, further reducing central pressure and pulling the curtain inward toward the spray's center.

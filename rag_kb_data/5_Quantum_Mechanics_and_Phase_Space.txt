@@ -1,0 +1,13 @@
+# Quantum Mechanics and Phase Space
+
+Quantum mechanics is the fundamental scientific framework that describes the physical properties of nature at the atomic and subatomic scales, where classical physics ceases to be accurate.
+
+## Fundamental Definitions
+*   **Superposition**: The principle that a quantum system can exist simultaneously in multiple states or configurations until a measurement is actively performed.
+*   **Probability Amplitude**: A complex number that describes the quantum state of a system. The squared magnitude of this amplitude directly determines the conventional probability of a specific measurement outcome.
+*   **Hilbert Space**: An abstract mathematical vector space that provides the structural framework for defining and analyzing quantum states, wave functions, and operators.
+
+## Core Concepts
+Unlike classical mechanics, where properties are exact and deterministic, quantum systems are inherently probabilistic. This is codified in the Heisenberg Uncertainty Principle, which establishes that certain pairs of physical properties, such as a particle's exact position and momentum, cannot be simultaneously measured with absolute precision. 
+
+To map quantum behavior into a structure that looks comparable to classical mechanics, physicists utilize phase-space distributions like the Wigner function. Because quantum states are governed by wave functions, they undergo constructive and destructive interference based on the phases of their probability amplitudes. This wave-like nature allows subatomic particles to pass directly through solid potential barriers that they classically lack the energy to clear, an essential mechanism known as quantum tunneling.

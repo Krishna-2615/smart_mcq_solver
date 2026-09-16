@@ -1,0 +1,13 @@
+# Advanced Spectroscopy and Quantum Scattering
+
+Experimental physics utilizes the interaction of radiation with matter to deduce the structural arrangements and quantum behaviors of atoms, molecules, and subatomic particles.
+
+## Fundamental Definitions
+*   **Ramsauer-Townsend Effect**: A physical phenomenon where low-energy electrons traveling through a noble gas experience zero scattering, passing through the gas atoms completely unhindered.
+*   **Evanescent Wave**: An intense, non-propagating electromagnetic field whose intensity decays exponentially with distance from the boundary where it was generated.
+*   **Fourier Transform Infrared Spectroscopy**: An analytical laboratory technique used to identify organic, polymeric, and inorganic materials by measuring how they absorb infrared radiation at distinct frequencies.
+
+## Core Concepts
+Classical physics models particles as solid spheres, predicting that traveling electrons will always scatter when colliding with gas atoms. However, experimental observations reveal the Ramsauer-Townsend effect, where electrons at specific low energy levels pass through noble gases as if the gas atoms are completely transparent. This phenomenon can only be understood through quantum mechanics, which treats the electron as a wave; at precise energy levels, the electron's wavelength matches the size of the atom, causing constructive interference that allows the wave to pass through without scattering.
+
+Similar wave properties are exploited in advanced spectroscopy. In specific optical setups, light striking a boundary at a steep angle reflects entirely back but generates an evanescent wave that extends slightly into the adjacent zone. This non-propagating field allows for specialized coupling effects, providing an optical analog to quantum mechanical tunneling. By analyzing how materials absorb energy from these boundary fields across a broad spectrum of infrared light, instruments can map out unique molecular vibrational charts, acting as definitive structural fingerprints.

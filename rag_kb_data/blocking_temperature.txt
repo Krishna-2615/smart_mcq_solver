@@ -1,0 +1,13 @@
+# Blocking Temperature in Spin Valves
+
+In solid-state physics and magnetic data storage engineering, the blocking temperature is a critical thermal threshold that governs the stability of antiferromagnetic materials in spin valves.
+
+## Fundamental Definitions
+*   **Spin Valve**: A layered nanostructure consisting of alternating magnetic and non-magnetic materials, designed to change its electrical resistance based on external magnetic fields.
+*   **Antiferromagnetism**: A type of magnetic order where the magnetic moments of adjacent atoms align in strictly opposite, alternating directions, resulting in zero net macroscopic magnetism.
+*   **Exchange Bias**: An interface effect where an antiferromagnetic layer strongly pins the magnetic orientation of an adjacent ferromagnetic layer, locking it in place.
+
+## Core Concepts
+Spin valves are the primary reading mechanisms utilized in the read-and-write heads of modern hard disk drives. They rely heavily on the exchange bias effect, placing a rigid antiferromagnetic layer directly against a sensitive ferromagnetic layer to pin the ferromagnet's orientation in a specific, fixed direction. 
+
+The blocking temperature represents the precise thermal limit at which this pinning effect completely collapses. When the operating environment exceeds the blocking temperature, ambient thermal energy becomes strong enough to disrupt the rigid internal atomic alignment of the antiferromagnetic layer. Consequently, it loses its grip on the adjacent ferromagnet, allowing the ferromagnet's orientation to drift or flip uncontrollably in response to stray magnetic fields. Managing and elevating this blocking temperature is an absolute necessity for ensuring the long-term data stability and operational reliability of magnetic memory drives.

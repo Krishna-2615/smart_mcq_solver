@@ -1,0 +1,13 @@
+# The Ramsauer-Townsend Effect
+
+The Ramsauer-Townsend effect is a quantum mechanical phenomenon that historically exposed the strict limitations of classical physics by demonstrating the wave-like nature of subatomic particles.
+
+## Fundamental Definitions
+*   **Ramsauer-Townsend Effect**: A physical phenomenon involving the scattering of low-energy electrons by atoms of a noble gas, characterized by an anomalous drop in scattering probability at specific low energies.
+*   **Scattering Cross-Section**: A hypothetical area that quantifies the likelihood of a scattering event occurring when an incoming particle interacts with a target particle or atom.
+*   **Wave-Particle Duality**: The concept that every fundamental particle exhibits both wave-like and particle-like properties, depending on the nature of the experimental measurement.
+
+## Core Concepts
+In classical physics, atoms and electrons are modeled as solid, discrete particles, like billiard balls. Under this classical framework, if you fire electrons into a tank of noble gas, the electrons should always scatter and bounce off the gas atoms, and the likelihood of this scattering should smoothly increase or remain stable as the electrons slow down. 
+
+However, independent experiments by Carl Ramsauer and John Sealy Townsend revealed a striking anomaly: when the electrons were slowed down to highly specific, very low kinetic energies, they passed straight through the noble gas atoms with virtually zero scattering, acting as if the gas was completely transparent. This paradoxical behavior cannot be explained by classical mechanics. It requires the wave framework of quantum mechanics to be understood. At specific low energies, the physical wavelength of the electron precisely matches the atomic dimensions of the gas, creating perfect destructive interference that cancels out the scattering effect entirely.

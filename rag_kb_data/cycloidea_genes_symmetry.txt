@@ -1,0 +1,13 @@
+# CYCLOIDEA Genes and Floral Symmetry
+
+In evolutionary biology and plant genetics, the CYCLOIDEA gene family plays a master regulatory role in determining the structural architecture and evolutionary symmetry of floral blossoms.
+
+## Fundamental Definitions
+*   **Bilateral Symmetry (Zygomorphy)**: A biological structural arrangement where a flower can be divided into identical, mirror-image halves along only one single vertical plane.
+*   **Radial Symmetry (Actinomorphy)**: A structural arrangement where a flower can be divided into identical, matching halves along multiple intersecting planes, similar to a standard wheel or star.
+*   **Transcription Factor**: A specialized protein that fundamentally controls the rate of transcription of genetic information from DNA to messenger RNA, effectively turning specific genes on or off.
+
+## Core Concepts
+Historically, the earliest flowering plants possessed simple radial symmetry. However, as plants evolved complex relationships with specialized pollinators like bees, many species adapted by developing specialized, highly complex bilaterally symmetrical flowers with distinct top and bottom petals. This massive evolutionary shift was driven entirely by genetic mutations.
+
+The role of CYCLOIDEA genes is central to this evolutionary leap in bilateral symmetry. CYCLOIDEA genes are not responsible for building the physical petals themselves; rather, they are responsible for the expression of critical transcription factors. These transcription factors act as master switches that control the expression of numerous other localized genes across the developing flower bud. By specifically restricting their influence to the dorsal (top) region of the flower, the expression of CYCLOIDEA transcription factors directly forces the developing tissues to grow asymmetrically, abandoning the ancestral radial shape and establishing the specialized bilateral pathways required for advanced pollination.

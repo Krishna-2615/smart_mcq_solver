@@ -1,0 +1,13 @@
+# Giordano Bruno and Early Cosmology
+
+Giordano Bruno was an Italian philosopher, friar, and cosmological theorist whose radical sixteenth-century ideas significantly predated modern astronomical discoveries and challenged established worldviews.
+
+## Fundamental Definitions
+*   **Heliocentrism**: The astronomical model in which the Earth and planets revolve around a relatively stationary Sun at the center of the solar system.
+*   **Exoplanet**: A planet located outside of our solar system, orbiting a star other than the Sun.
+*   **Geocentrism**: The superseded historical description of the universe with Earth at the center, orbited by the Sun, Moon, and stars.
+
+## Core Concepts
+A member of the Dominican Order, Bruno was a vocal proponent of the Copernican heliocentric model, but he went much further than his contemporaries. He famously argued that the universe is infinite and contains an uncountable number of stars. He proposed that these stars were actually distant suns orbited by their own planetary systems, essentially anticipating the existence of exoplanets centuries before their discovery. 
+
+Bruno further speculated that extraterrestrial life might exist on these distant worlds, directly challenging the geocentric and anthropocentric worldview upheld by the religious institutions of his time. His rejection of Catholic dogma, combined with his embrace of pantheistic views, led to his arrest by the Roman Inquisition. After years of imprisonment and refusing to recant his philosophical claims, he was executed. Today, Bruno is celebrated as a visionary who perceived a universe far more expansive than the medieval mind could conceive.

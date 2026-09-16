@@ -1,0 +1,13 @@
+# The Ultraviolet Catastrophe and Quanta
+
+The ultraviolet catastrophe was a profound theoretical contradiction in late nineteenth-century classical physics regarding the thermal energy emitted by a theoretical black body.
+
+## Fundamental Definitions
+*   **Black Body**: An idealized physical object that perfectly absorbs all incident electromagnetic radiation, regardless of frequency or angle of incidence, and emits thermal radiation perfectly.
+*   **Rayleigh-Jeans Law**: A classical physics formula that attempted to describe the spectral radiance of electromagnetic radiation at all wavelengths from a black body at a given temperature.
+*   **Quantum**: The minimum, discrete amount of any physical entity or energy involved in an interaction.
+
+## Core Concepts
+According to the established principles of classical thermodynamics and electromagnetism, specifically modeled by the Rayleigh-Jeans law, a perfect black body should emit radiant energy at all possible frequencies. The classical equations predicted that as the frequency of the radiation increased into the ultraviolet range, the emitted intensity would climb infinitely. 
+
+This theoretical prediction clearly violated the fundamental law of conservation of energy, as it implied a hot object would emit an infinite amount of energy to reach thermal equilibrium. This blatant contradiction, dubbed the ultraviolet catastrophe, signaled that classical physics was fundamentally incomplete. The resolution was provided by physicist Max Planck, who solved the paradox by postulating that electromagnetic energy could not be emitted in a continuous wave, but rather only in discrete, indivisible packets called quanta, laying the groundwork for modern quantum mechanics.

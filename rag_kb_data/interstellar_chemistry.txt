@@ -1,0 +1,13 @@
+# Interstellar Chemistry and Molecular Clouds
+
+Interstellar chemistry explores the complex network of chemical reactions occurring in the cold, sparse regions of deep space, investigating how fundamental molecules form, dissociate, and aggregate.
+
+## Fundamental Definitions
+*   **Molecular Cloud**: A dense, cool region of interstellar space composed primarily of gas and dust, providing the necessary environment for the formation of molecules and new stars.
+*   **Primordial Material**: Ancient, unaltered cosmic matter dating back to the earliest stages of a star system's formation.
+*   **Volatile Element**: Chemical substances with very low boiling points that readily vaporize into gas when exposed to minimal heat.
+
+## Core Concepts
+Despite appearing empty, interstellar space contains vast clouds of dust grains and gases where vital chemical processes occur. Key mechanisms include ion-molecule reactions, radiation-induced transformations, and surface chemistry occurring directly on the icy mantles of microscopic dust grains. Interstellar chemistry is paramount for understanding the origins of solar systems, as these cold clouds produce the organic molecular precursors required for biological life. 
+
+Cometary chemistry provides a direct, observable link to these distant interstellar processes. Comets are composed of primordial material from the outer, freezing edges of the early solar nebula. The organic molecules and volatile elements trapped securely within cometary ices closely match the chemical signatures of the dense interstellar gas clouds where our sun was born. Tracking these pristine frozen materials allows astronomers to deduce the exact chemical conditions that preceded planetary formation.

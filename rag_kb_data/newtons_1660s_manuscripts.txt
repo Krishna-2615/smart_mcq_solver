@@ -1,0 +1,13 @@
+# Newton's 1660s Manuscripts
+
+Isaac Newton's manuscripts from the 1660s represent one of the most prolific, transformative periods of scientific creativity in history, establishing the empirical foundations of classical physics.
+
+## Fundamental Definitions
+*   **Calculus (Fluxions)**: The mathematical study of continuous change, developed independently by Newton to calculate rates of motion and areas under curves.
+*   **Linear Inertia**: The physical principle stating that an object in motion will continue moving in a straight line unless acted upon by an external force.
+*   **Natural Philosophy**: The historical, pre-modern study of nature and the physical universe that preceded the establishment of formal empirical science.
+
+## Core Concepts
+Often referred to as his "annus mirabilis" or year of wonders, Newton retreated to his family estate at Woolsthorpe in the mid-1660s to escape the Great Plague of London. During this intense period of isolation, he drafted manuscripts that fundamentally revolutionized the understanding of nature. 
+
+These documents trace his earliest developments of calculus, his pioneering optical experiments with prisms proving that white light is a composite of a full spectrum of colors, and his initial thoughts on universal gravitation. Crucially, the manuscripts reveal his evolving understanding of orbital mechanics; they document how Newton combined the concept of tangential, straight-line motion with the effects of a radially directed inward force to successfully express the mechanics of planetary orbits. These texts remain a primary historical record of the Scientific Revolution's birth.

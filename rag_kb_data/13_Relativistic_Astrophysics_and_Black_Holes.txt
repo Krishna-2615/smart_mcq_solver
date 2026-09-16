@@ -1,0 +1,13 @@
+# Relativistic Astrophysics and Black Holes
+
+Relativistic astrophysics is the study of highly energetic, massive celestial objects whose behaviors cannot be modeled without the application of Einstein’s general relativity.
+
+## Fundamental Definitions
+*   **Event Horizon**: The definitive boundary surrounding a black hole beyond which the escape velocity completely exceeds the universal speed of light.
+*   **Ergosphere**: A region located outside a rotating black hole's event horizon where the dragging of spacetime forces all traveling matter and light to rotate along with the black hole.
+*   **Roche Limit**: The minimum distance to which a celestial body, held together solely by its own internal gravity, can approach a second massive body before tidal forces cause it to disintegrate.
+
+## Core Concepts
+Black holes represent the most extreme concentrations of mass in the cosmos. According to fundamental theorems, a completely collapsed, static black hole can be fully characterized by its mass alone, maintaining perfect spherical symmetry. 
+
+When a black hole rotates, its ergosphere creates a mechanism known as the Penrose process. Traveling matter can enter this region, split apart, and emerge with significantly more kinetic energy than it entered with, actively drawing energy out from the black hole's rotational resource. The existence of these massive structures is verified observationally by tracking the highly precise, fast elliptical orbits of close stars circling the galactic center. Additionally, dense rotating stellar remnants can emit periodic beams of highly structured radiation, serving as reliable beacons for deep space navigation.
